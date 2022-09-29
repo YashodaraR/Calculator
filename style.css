@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=PT+Sans+Caption&display=swap');
+body{
+    background-image: url("https://i.ibb.co/DQhMS8D/calcimg.jpg");
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    border-radius: 50%;
+    box-shadow: 7px 2px 0px rgba(106, 108, 110, 1);
+    font-size: 40px;
+    background: #000000;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+    color:#dd843c
+}
+
+.calculator{ 
+    border: 4px solid #13695d;
+    padding: 23px;
+    border-radius: 14px;
+    display: inline-block;
+    background-image: url("https://i.ibb.co/tHHKQb1/backgd.jpg");
+    height: 518px;
+    margin-top: 37px;
+    
+}
+
+h1{
+    font-size: 52px;
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  */
+    color:#4aeb11;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
